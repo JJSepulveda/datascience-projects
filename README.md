@@ -7,8 +7,6 @@ Here I am going to put some of my machine learning projects with scikit-learn.
 
 ## Getting started
 
----
-
 You can run these code files on cloud platforms like [Google Colab](https://colab.research.google.com/) or your local machine.
 
 ### ****Running on a cloud platform****
@@ -18,8 +16,6 @@ To run the notebook (.ipynb) files on a cloud platform, just click on one of the
 ## Index
 
 ## Supervised learning
-
----
 
 There are two types of supervised learning: classification and regression.
 
